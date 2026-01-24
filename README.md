@@ -1,2 +1,2 @@
 # bioinformatics-journey
-Moleküler biyoloji, biyoinformatik ve yapay zekanın kesişimini keşfediyorum. Biyolojik araştırmaları kod ile hızlandırıyorum
+Exploring the intersection of molecular biology, bioinformatics, and AI. Accelerating biological research through code
